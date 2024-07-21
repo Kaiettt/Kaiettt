@@ -22,8 +22,7 @@
 
 <p align="center"> 
   <samp>
-
-    「 I'm studying Software Engineering at <b>Ho Chi Minh University of Technology and Education</b> 」
+          I'm studying Software Engineering at <b>Ho Chi Minh University of Technology and Education</b>
   </samp>
 </p>
 
