@@ -24,7 +24,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
     <br>
-    「 I'm studying Sofware Engineering at <b>Ho Chi Minh University of Technology and Education</b> 」
+    「 I'm studying Software Engineering at <b>Ho Chi Minh University of Technology and Education</b> 」
     <br>
     <br>
   </samp>
