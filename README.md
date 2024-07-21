@@ -22,7 +22,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+
     <br>
     「 I'm studying Software Engineering at <b>Ho Chi Minh University of Technology and Education</b> 」
     <br>
