@@ -27,6 +27,9 @@
 </p>
 
 <p align="center">
+  <a href="https://leetcode.com/u/nguyenanhkiet845/" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="alsiam" />
+ </a> 
  <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-anh-ki%E1%BB%87t-976765316/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
@@ -39,6 +42,7 @@
  <a href="https://www.facebook.com/profile.php?id=100045817721489" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
+   
 </p>
 
 <!-- About Section -->
