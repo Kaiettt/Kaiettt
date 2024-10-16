@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anh Kieth1>
+<h1 align="center">Hi 👋, I'm Anh Kiet>
 
-<h3 align="center">Software enthusiast fro HCMUTE</h3>
+<h3 align="center">Software enthusiast from HCMUTE</h3>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
