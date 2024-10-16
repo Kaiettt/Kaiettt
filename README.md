@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Otavio</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=otaviossousa&label=Profile%20views&color=0e75b6&style=flat" alt="otavio-sousa" /> </p>
 <h3 align="center">Developer in training, cybersecurity enthusiast from Brazil.</h3>
 
 <h2 align="center">Connect with me:</h2>
