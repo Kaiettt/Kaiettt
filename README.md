@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Anh Kiet>
-
-<h3 align="center">Software enthusiast from HCMUTE</h3>
-
 <h2 align="center">Connect with me:</h2>
 <p align="center">
  <a href="https://www.instagram.com/nak.584/" target="blank"><img align="center"
